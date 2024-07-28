@@ -1,0 +1,7 @@
+hosp_id,hospname,town,nbeds,type
+1,Big University Hospital,New Mitford,841,1
+2,Our Lady of Charity,North Mitford,645,2
+3,Veterans Administration,West Mitford,1176,3
+4,Community Hospital,Derbyville,448,1
+5,City Hospital,New Mitford,1025,1
+6,Children's Hospital,East Mitford,239,2

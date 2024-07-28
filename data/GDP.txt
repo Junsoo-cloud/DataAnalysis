@@ -1,0 +1,194 @@
+Rank	Country/Territory	USD
+1	 Luxembourg	114,234
+2	  Switzerland	82,950
+2	 Macau	82,388
+3	 Norway	81,695
+4	 Ireland	76,099
+5	 Iceland	74,278
+6	 Qatar	70,780
+7	 Singapore	64,041
+8	 United States	62,606
+9	 Denmark	60,692
+10	 Australia	56,352
+11	 Sweden	53,873
+12	 Netherlands	53,106
+13	 Austria	51,509
+14	 Finland	49,845
+15	 San Marino	48,946
+15	 Hong Kong	48,517
+16	 Germany	48,264
+17	 Belgium	46,724
+18	 Canada	46,261
+19	 France	42,878
+20	 United Kingdom	42,558
+21	 Israel	41,644
+22	 New Zealand	41,267
+23	 United Arab Emirates	40,711
+24	 Japan	39,306
+25	 Italy	34,260
+26	 Bahamas, The	34,003
+27	 Brunei	32,414
+27	 Puerto Rico	31,939
+28	 Korea, South	31,346
+29	 Malta	31,058
+30	 Kuwait	30,839
+31	 Spain	30,697
+32	 Cyprus	28,340
+33	 Slovenia	26,243
+34	 Bahrain	25,851
+34	 Aruba	25,466
+34	 Taiwan	24,971
+35	 Saudi Arabia	23,566
+36	 Portugal	23,186
+37	 Estonia	22,990
+38	 Czech Republic	22,850
+39	 Greece	20,408
+40	 Slovakia	19,582
+41	 Oman	19,302
+42	 Lithuania	19,143
+43	 Saint Kitts and Nevis	18,203
+44	 Latvia	18,032
+45	 Barbados	17,961
+46	 Antigua and Barbuda	17,636
+47	 Uruguay	17,165
+48	 Seychelles	16,472
+49	 Trinidad and Tobago	16,223
+50	 Palau	16,091
+51	 Chile	16,079
+52	 Hungary	15,924
+53	 Panama	15,679
+54	 Poland	15,431
+55	 Croatia	14,816
+56	 Maldives	14,501
+57	 Romania	12,285
+58	 Costa Rica	11,744
+59	 Argentina	11,627
+59	 World	11,355
+60	 Russia	11,327
+61	 Mauritius	11,281
+62	 Grenada	11,042
+63	 Malaysia	10,942
+64	 Saint Lucia	10,610
+65	 Equatorial Guinea	10,453
+66	 Mexico	9,807
+67	 China	9,608
+68	 Turkey	9,346
+69	 Bulgaria	9,267
+70	 Lebanon	9,257
+71	 Kazakhstan	9,237
+72	 Nauru	9,037
+73	 Brazil	8,968
+74	 Montenegro	8,652
+75	 Gabon	8,297
+76	 Botswana	8,137
+77	 Dominican Republic	7,881
+78	 Turkmenistan	7,646
+79	 Saint Vincent and the Grenadines	7,491
+80	 Serbia	7,243
+81	 Thailand	7,187
+82	 Peru	7,002
+83	 Dominica	6,977
+84	 Libya	6,692
+85	 Colombia	6,684
+86	 South Africa	6,377
+87	 Ecuador	6,316
+88	 Belarus	6,306
+89	 North Macedonia	6,100
+90	 Iraq	5,930
+91	 Paraguay	5,899
+92	 Suriname	5,799
+93	 Fiji	5,752
+94	 Namibia	5,727
+95	 Bosnia and Herzegovina	5,674
+96	 Iran	5,491
+97	 Jamaica	5,392
+98	 Albania	5,289
+99	 Belize	4,862
+100	 Tonga	4,666
+101	 Guyana	4,649
+102	 Guatemala	4,575
+103	 Azerbaijan	4,569
+104	 Kosovo	4,403
+105	 Georgia	4,400
+106	 Samoa	4,318
+107	 Jordan	4,278
+108	 Eswatini	4,250
+109	 Algeria	4,238
+110	 Armenia	4,169
+111	 Tuvalu	4,096
+112	 Sri Lanka	4,068
+113	 Mongolia	4,026
+114	 El Salvador	3,924
+115	 Indonesia	3,871
+116	 Marshall Islands	3,831
+117	 Bolivia	3,682
+118	 Angola	3,669
+119	 Micronesia, Federated States of	3,656
+120	 Cape Verde	3,563
+121	 Tunisia	3,423
+122	 Venezuela	3,374
+123	 Morocco	3,359
+124	 Vanuatu	3,254
+125	 Moldova	3,218
+126	 Bhutan	3,215
+127	 Philippines	3,104
+128	 Ukraine	2,963
+129	 Laos	2,720
+130	 Egypt	2,573
+131	 Vietnam	2,551
+132	 Papua New Guinea	2,530
+133	 Honduras	2,521
+134	 Congo, Republic of the	2,511
+135	 East Timor	2,435
+136	 Solomon Islands	2,271
+137	 Ghana	2,206
+138	 Nicaragua	2,108
+139	 Djibouti	2,085
+140	 Sao Tome and Principe	2,063
+141	 Nigeria	2,049
+142	 India	2,036
+143	 Kenya	1,857
+144	 Bangladesh	1,745
+145	 Zimbabwe	1,712
+146	 Cote d'Ivoire	1,680
+147	 Kiribati	1,641
+148	 Pakistan	1,555
+149	 Cameroon	1,548
+150	 Cambodia	1,509
+151	 Senegal	1,474
+152	 Zambia	1,417
+153	 Lesotho	1,358
+154	 Myanmar	1,298
+155	 Kyrgyzstan	1,268
+156	 Uzbekistan	1,263
+157	 Mauritania	1,143
+158	 Tanzania	1,134
+159	 Eritrea	1,112
+160	   Nepal	972
+161	 Mali	927
+162	 Benin	915
+163	 Guinea	883
+164	 Chad	874
+165	 Comoros	873
+166	 Yemen	872
+167	 Haiti	857
+168	 Ethiopia	853
+169	 Guinea-Bissau	840
+170	 Tajikistan	826
+171	 Sudan	808
+172	 Rwanda	791
+173	 Gambia, The	745
+174	 Burkina Faso	729
+175	 Liberia	728
+176	 Uganda	724
+177	 Togo	670
+178	 Afghanistan	544
+179	 Sierra Leone	516
+180	 Niger	477
+181	 Mozambique	476
+182	 Madagascar	459
+183	 Congo, Democratic Republic of the	449
+184	 Central African Republic	430
+185	 Malawi	351
+186	 Burundi	307
+187	 South Sudan	303
